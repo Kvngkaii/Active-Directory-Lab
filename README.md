@@ -1,17 +1,9 @@
 <h1> - Active Directory Lab - </h1>
 
-This project involves setting up a Windows network using virtual machines running Windows 10 and Windows Server 2019. A virtual machine with Windows Server 2019 is configured as the domain controller, utilizing two network adapters for external and private network connections. NAT and routing are set up to enable internet access for the client machine via the domain controller. DHCP is configured on the domain controller to provide IP addresses to client machines. Additionally, a PowerShell script is used to create 1,000 users in Active Directory.
-
-
-
-
-
-
-
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+This project involves setting up a Windows network using virtual machines running Windows 10 and Windows Server 2019. A virtual machine with Windows Server 2019 is configured as the domain controller, utilizing two network adapters for external and private network connections. NAT and routing are set up to enable internet access for the client machine via the domain controller. DHCP is configured on the domain controller to provide IP addresses to client machines. Additionally, a PowerShell script is used to create 1,000 users in Active Directory.
+
 
 
 <h2>Languages and Utilities Used</h2>
