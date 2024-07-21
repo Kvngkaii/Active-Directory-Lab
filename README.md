@@ -26,20 +26,20 @@ Setting up two network Adapters: <br/>
 
 <br />
 <br />
-Powershell Script :  <br/>
+Configuring DHCP Server :  <br/>
+<img src="https://i.imgur.com/BQoQWuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Powershell Script <br/>
 <img src="https://i.imgur.com/L9fZAbm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Script creating users: <br/>
+Creating Users:  <br/>
 <img src="https://i.imgur.com/OYg8IgO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirmation of creation of accounts:  <br/>
+Confirmation of users (may take some time):  <br/>
 <img src="https://i.imgur.com/QvZSmoQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
