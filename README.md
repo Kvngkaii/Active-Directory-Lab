@@ -10,6 +10,8 @@ This project involves setting up a Windows network using virtual machines runnin
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
+- <b>Windows Server</b>
+- <b>Virtualboxt</b>
 
 <h2>Environments Used </h2>
 
