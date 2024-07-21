@@ -22,7 +22,7 @@ Configured a virtual machine with Windows Server 2019 as the domain controller.
 Utilized two network adapters: one for connecting to the external network and another for the private network.
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/tGlJo1C" height="80%" width="80%" alt="Setting two network Adapters"/>
+<img src="https://i.imgur.com/loM4WP7.png" height="80%" width="80%" alt="Setting two network Adapters"/>
 
 <br />
 <br />
