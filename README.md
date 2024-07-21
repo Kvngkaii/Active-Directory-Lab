@@ -16,7 +16,10 @@ This project involves setting up a Windows network using virtual machines runnin
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
+Domain Controller Setup:
 
+Configured a virtual machine with Windows Server 2019 as the domain controller.
+Utilized two network adapters: one for connecting to the external network and another for the private network.
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
