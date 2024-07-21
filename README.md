@@ -26,7 +26,7 @@ Setting up two network Adapters: <br/>
 
 <br />
 <br />
-Select the disk:  <br/>
+Powershell Script :  <br/>
 <img src="https://i.imgur.com/L9fZAbm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
