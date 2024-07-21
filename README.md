@@ -30,12 +30,12 @@ Powershell Script :  <br/>
 <img src="https://i.imgur.com/L9fZAbm.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Script creating user: <br/>
+Script creating users: <br/>
 <img src="https://i.imgur.com/OYg8IgO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirmation of creation of accounts:  <br/>
+<img src="https://i.imgur.com/QvZSmoQ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
