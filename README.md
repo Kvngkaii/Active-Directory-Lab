@@ -20,6 +20,15 @@ Domain Controller Setup:
 
 Configured a virtual machine with Windows Server 2019 as the domain controller.
 Utilized two network adapters: one for connecting to the external network and another for the private network.
+Network Configuration:
+
+Set up NAT and routing to allow the client machine on the private network to access the internet through the domain controller.
+DHCP Configuration:
+
+Configured the domain controller to run DHCP, enabling the Windows 10 client machine to obtain an IP address.
+Active Directory User Creation:
+
+Executed a PowerShell script to create 1,000 users in Active Directory.
 <p align="center">
 Setting up two network Adapters: <br/>
 <img src="https://i.imgur.com/loM4WP7.png" height="80%" width="80%" alt="Setting two network Adapters"/>
