@@ -1,5 +1,12 @@
 <h1> - Active Directory Lab</h1>
 
+This project involves setting up a Windows network using virtual machines running Windows 10 and Windows Server 2019. A virtual machine with Windows Server 2019 is configured as the domain controller, utilizing two network adapters for external and private network connections. NAT and routing are set up to enable internet access for the client machine via the domain controller. DHCP is configured on the domain controller to provide IP addresses to client machines. Additionally, a PowerShell script is used to create 1,000 users in Active Directory.
+
+
+
+
+
+
 
 
 <h2>Description</h2>
