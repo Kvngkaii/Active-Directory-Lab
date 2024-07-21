@@ -23,6 +23,7 @@ Utilized two network adapters: one for connecting to the external network and an
 <p align="center">
 Launch the utility: <br/>
 <img src="https://imgur.com/a/tGlJo1C" height="80%" width="80%" alt="Setting two network Adapters"/>
+
 <br />
 <br />
 Select the disk:  <br/>
